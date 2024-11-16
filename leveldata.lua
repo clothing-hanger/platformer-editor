@@ -1,0 +1,20 @@
+return {
+    header = {width = 5, height = 3}, 
+    levelData = {
+        {1,1,"empty"}, 
+        {1,2,"empty"}, 
+        {1,3,"empty"},
+        {1,4,"empty"},
+        {1,5,"empty"},
+        {2,1,"empty"}, 
+        {2,2,"empty"}, 
+        {2,3,"empty"},
+        {2,4,"empty"},
+        {2,5,"empty"},
+        {3,1,"ground"}, 
+        {3,2,"ground"}, 
+        {3,3,"ground"},
+        {3,4,"ground"},
+        {3,5,"ground"},
+    },
+    
